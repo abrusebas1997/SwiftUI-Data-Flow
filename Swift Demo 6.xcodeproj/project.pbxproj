@@ -15,6 +15,7 @@
 		8F5A5ED024661667006601E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F5A5ECE24661667006601E1 /* LaunchScreen.storyboard */; };
 		8F5A5EDB24661668006601E1 /* Swift_Demo_6Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5A5EDA24661668006601E1 /* Swift_Demo_6Tests.swift */; };
 		8F5A5EE624661668006601E1 /* Swift_Demo_6UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5A5EE524661668006601E1 /* Swift_Demo_6UITests.swift */; };
+		8F5A5EF424667EED006601E1 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5A5EF324667EED006601E1 /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8F5A5EE124661668006601E1 /* Swift Demo 6UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift Demo 6UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F5A5EE524661668006601E1 /* Swift_Demo_6UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_Demo_6UITests.swift; sourceTree = "<group>"; };
 		8F5A5EE724661668006601E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F5A5EF324667EED006601E1 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8F5A5EC324661665006601E1 /* AppDelegate.swift */,
 				8F5A5EC524661665006601E1 /* SceneDelegate.swift */,
 				8F5A5EC724661665006601E1 /* ContentView.swift */,
+				8F5A5EF324667EED006601E1 /* SliderView.swift */,
 				8F5A5EC924661667006601E1 /* Assets.xcassets */,
 				8F5A5ECE24661667006601E1 /* LaunchScreen.storyboard */,
 				8F5A5ED124661667006601E1 /* Info.plist */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F5A5EC424661665006601E1 /* AppDelegate.swift in Sources */,
+				8F5A5EF424667EED006601E1 /* SliderView.swift in Sources */,
 				8F5A5EC624661665006601E1 /* SceneDelegate.swift in Sources */,
 				8F5A5EC824661665006601E1 /* ContentView.swift in Sources */,
 			);
